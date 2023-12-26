@@ -1,6 +1,6 @@
 # BGS Engineering Analytics
 ### Problem Statement
-Included in these materials please find two comma separated values (.csv) files: Training_dataset.csv and Test_dataset.csv
+Included in these materials please find two comma separated values (.csv) files: [Training_dataset.csv](https://github.com/cmunwong/BGS-Engineering-Analytics/blob/main/Training_Dataset.csv) and [Test_dataset.csv](https://github.com/cmunwong/BGS-Engineering-Analytics/blob/main/)Test_Dataset.csv)
 
 Included in the training dataset is information on used cars previously sold. Each row corresponds to one used car listing. The first column of the data contains a unique identifier for the listing. The next twenty-six columns contain information on parameters relevant to the transaction, with those parameters described in more detail in the appendix attached. Finally, the last two columns of the “Training_dataset.csv” contain information on “Vehicle_Trim” and “Dealer_Listing_Price”, which describe the trim of the vehicle involved in the sale, and the price at which the vehicle was listed by the dealer.
 
