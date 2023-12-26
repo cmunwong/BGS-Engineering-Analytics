@@ -12,7 +12,7 @@ Use the information on used cars previously sold in the "Training_Dataset.csv" f
 
 ### Steps:
 1. Data Cleaning: *Replace the missing numerial data with the column average and the missing categorial data with "Missing" category.*
-2. Data Transformation: *Transform all categorial data into interger.*
+2. Data Transformation: *Transform all categorial data into integer.*
 3. Data Modeling: *Split the traning dateset in two, 80% for model training and 20% for model evaluation.*
 
    *Build and fit the Machine Learning Models:*
