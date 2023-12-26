@@ -1,7 +1,30 @@
 # BGS Engineering Analytics
+### Objective: 
+Use the information on used cars previously sold in the "Training_Dataset.csv" file to predict vehicle trim and dealer listing price given the other twenty-six variables provided in the "Test_Dataset.csv" file.
+
+### CSV Datasets: 
+- [Training_Dataset.csv](https://github.com/cmunwong/BGS-Engineering-Analytics/blob/main/Training_Dataset.csv)
+- [Test_Dataset.csv](https://github.com/cmunwong/BGS-Engineering-Analytics/blob/main/Test_Dataset.csv)
+- [Prediction_Dataset.csv](https://github.com/cmunwong/BGS-Engineering-Analytics/blob/main/Prediction_Dataset.csv) (final results)
+
+### Steps:
+1. Data Cleaning: *Replace the missing numerial data with the column average and the missing categorial data with "Missing" category.*
+2. Data Transformation: *Transform all categorial data into interger.*
+3. Data Modeling: *Split the traning dateset in two, one for model training and one for model evaluation.*
+
+   *Build and fit the Machine Learning Models:*
+   - *DatasetLasso Regression*
+   - *Ridge Regression*
+   - *Elastic Net*
+   - *Random Forest*
+   - *Gradient Boosting Machines*
+     
+5. Model Evaluation: *Select the best model with the highest R^2 and the lowest MAE.*
+6. Data Prediction: *Predict the test dataset using the selected model.*
+
 
 ### Problem Statement
-Included in these materials please find two comma separated values (.csv) files: [Training_dataset.csv](https://github.com/cmunwong/BGS-Engineering-Analytics/blob/main/Training_Dataset.csv) and [Test_dataset.csv](https://github.com/cmunwong/BGS-Engineering-Analytics/blob/main/Test_Dataset.csv)
+Included in these materials please find two comma separated values (.csv) files: [Training_Dataset.csv](https://github.com/cmunwong/BGS-Engineering-Analytics/blob/main/Training_Dataset.csv) and [Test_Dataset.csv](https://github.com/cmunwong/BGS-Engineering-Analytics/blob/main/Test_Dataset.csv)
 
 Included in the training dataset is information on used cars previously sold. Each row corresponds to one used car listing. The first column of the data contains a unique identifier for the listing. The next twenty-six columns contain information on parameters relevant to the transaction, with those parameters described in more detail in the appendix attached. Finally, the last two columns of the “Training_dataset.csv” contain information on “Vehicle_Trim” and “Dealer_Listing_Price”, which describe the trim of the vehicle involved in the sale, and the price at which the vehicle was listed by the dealer.
 
