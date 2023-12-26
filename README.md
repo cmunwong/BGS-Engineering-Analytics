@@ -2,7 +2,7 @@
 ### Objective: 
 Use the information on used cars previously sold in the "Training_Dataset.csv" file to predict vehicle trim and dealer listing price given the other twenty-six variables provided in the "Test_Dataset.csv" file.
 
-### CSV Datasets: 
+### Datasets: 
 - [Training_Dataset.csv](https://github.com/cmunwong/BGS-Engineering-Analytics/blob/main/Training_Dataset.csv)
 - [Test_Dataset.csv](https://github.com/cmunwong/BGS-Engineering-Analytics/blob/main/Test_Dataset.csv)
 - [Prediction_Dataset.csv](https://github.com/cmunwong/BGS-Engineering-Analytics/blob/main/Prediction_Dataset.csv) (final results)
