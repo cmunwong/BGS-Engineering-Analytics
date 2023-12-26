@@ -1,7 +1,5 @@
 # BGS Engineering Analytics
 
-http://localhost:8888/notebooks/Untitled1.ipynb?kernel_name=python3#
-
 ### Problem Statement
 Included in these materials please find two comma separated values (.csv) files: [Training_dataset.csv](https://github.com/cmunwong/BGS-Engineering-Analytics/blob/main/Training_Dataset.csv) and [Test_dataset.csv](https://github.com/cmunwong/BGS-Engineering-Analytics/blob/main/Test_Dataset.csv)
 
