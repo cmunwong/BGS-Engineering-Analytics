@@ -16,7 +16,7 @@ Use the information on used cars previously sold in the "Training_Dataset.csv" f
 3. Data Modeling: *Split the traning dateset in two, 80% for model training and 20% for model evaluation.*
 
    *Build and fit the Machine Learning Models:*
-   - *DatasetLasso Regression*
+   - *Lasso Regression*
    - *Ridge Regression*
    - *Elastic Net*
    - *Random Forest*
