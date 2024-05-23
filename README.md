@@ -7,7 +7,7 @@ Use the information on used cars previously sold in the "Training_Dataset.csv" f
 - [Test_Dataset.csv](https://github.com/cmunwong/BGS-Engineering-Analytics/blob/main/Test_Dataset.csv)
 - [Prediction_Dataset.csv](https://github.com/cmunwong/BGS-Engineering-Analytics/blob/main/Prediction_Dataset.csv) (final results)
 
-### Python code:
+### Python Notebook:
 - [Prediction.ipynb](https://github.com/cmunwong/BGS-Engineering-Analytics/blob/main/Prediction.ipynb)
 
 ### Applied steps:
