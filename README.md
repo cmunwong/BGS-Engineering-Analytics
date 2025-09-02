@@ -24,3 +24,6 @@ Use the information on used cars previously sold in the "Training_Dataset.csv" f
      
 5. Model Evaluation: *Select the best model with the highest R^2 and the lowest MAE.*
 6. Data Prediction: *Predict the test dataset using the selected model.*
+
+### Reference:
+https://github.com/eliekawerk/Real_Estate_Tycoon_project
